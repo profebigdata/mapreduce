@@ -1,7 +1,7 @@
 MapReduce - Deliverable
 =======================
 
-This is a set of deliverable exercises regarding mapreduce.
+
 
 * Histogram (com.agartime.utad.mapreduce.histogram) - Gets the Distribution Histogram of N-Bars given N float numbers.
 * FriendsOfMyFriends (com.agartime.utad.mapreduce.friendsofmyfriends) - Gets the Friend Of My Friends in a Social Graph of pairs (FriendOrigin, FriendDestiny)
